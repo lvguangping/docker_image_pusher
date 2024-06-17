@@ -1,2 +1,4 @@
 coredns/coredns:1.8.4
 python:3.12.4
+rancher/calico-node:v3.18.1
+rancher/calico-kube-controllers:v3.18.1
