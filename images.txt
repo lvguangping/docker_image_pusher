@@ -1,4 +1,5 @@
 coredns/coredns:1.8.4
 python:3.12.4
-rancher/calico-node:v3.18.1
-rancher/calico-kube-controllers:v3.18.1
+quay.io/azimuth/docker.io/calico/node
+quay.io/azimuth/docker.io/calico/cni
+quay.io/azimuth/docker.io/calico/kube-controllers
