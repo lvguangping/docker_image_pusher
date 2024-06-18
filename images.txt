@@ -1,5 +1,5 @@
 coredns/coredns:1.8.4
 python:3.12.4
-quay.io/azimuth/docker.io/calico/node
-quay.io/azimuth/docker.io/calico/cni
-quay.io/azimuth/docker.io/calico/kube-controllers
+quay.io/azimuth/docker.io/calico/node:v3.27.3
+quay.io/azimuth/docker.io/calico/cni:v3.27.3
+quay.io/azimuth/docker.io/calico/kube-controllers:v3.27.3
