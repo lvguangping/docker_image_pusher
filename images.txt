@@ -1,1 +1,1 @@
-nginx:trixie-perl
+zabbix/zabbix-server-mysql:centos-trunk
