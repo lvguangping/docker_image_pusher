@@ -2,3 +2,4 @@ zabbix/zabbix-server-mysql:centos-trunk
 zabbix/zabbix-web-nginx-mysql:centos-trunk
 zabbix/zabbix-proxy-mysql:centos-trunk
 zabbix/zabbix-agent2:trunk-centos
+mysql:5.7.44
