@@ -1,7 +1,7 @@
 coredns/coredns:1.8.4
 python:3.12.4
 mysql:8.0.45-debian
-zabbix/zabbix-server-mysql:trunk-centos
-zabbix/zabbix-web-nginx-mysql:trunk-ubuntu
-zabbix/zabbix-proxy-mysql:trunk-alpine
-zabbix/zabbix-agent2:sha256-9e7191a5a5bd46ea433deda93f7a397d3d22367834d72d0377f1456a1541fb3a.sig
+zabbix-server-mysql:trunk-centos
+zabbix-web-nginx-mysql:trunk-ubuntu
+zabbix-proxy-mysql:trunk-alpine
+zabbix-agent2:sha256-9e7191a5a5bd46ea433deda93f7a397d3d22367834d72d0377f1456a1541fb3a.sig
