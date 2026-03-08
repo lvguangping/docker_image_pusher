@@ -1,1 +1,1 @@
-zabbix/zabbix-server-mysql:centos-trunk
+zabbix/zabbix-server-mysql
