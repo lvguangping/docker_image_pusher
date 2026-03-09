@@ -6,3 +6,4 @@ mysql:5.7.44
 zabbix/zabbix-server-mysql:5.4.0-centos
 zabbix/zabbix-web-nginx-mysql:5.4-centos-latest
 zabbix/zabbix-agent2:5.4-centos-latest
+mysql:8.0.45
